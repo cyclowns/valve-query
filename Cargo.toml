@@ -1,6 +1,9 @@
 [package]
 name = "valve-query"
-version = "0.1.0"
-authors = ["cyclowns <cyclowns@users.noreply.github.com>"]
+version = "0.0.1"
+authors = ["cyclowns <cyclowns@protonmail.ch>"]
+description = "Rust API allowing for querying information from Valve Source/Goldsrc game servers (TF2, CS:S, etc.) (!!!WIP!!!)"
+readme = "README.md"
+license = "MIT"
 
 [dependencies]

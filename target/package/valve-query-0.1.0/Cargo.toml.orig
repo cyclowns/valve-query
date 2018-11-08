@@ -1,6 +1,0 @@
-[package]
-name = "valve-query"
-version = "0.1.0"
-authors = ["cyclowns <cyclowns@users.noreply.github.com>"]
-
-[dependencies]
